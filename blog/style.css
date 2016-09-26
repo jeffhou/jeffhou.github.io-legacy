@@ -1,0 +1,67 @@
+.page {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: monospace;
+}
+
+img {
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.w250 {
+  max-width: 250px;
+  vertical-align: top;
+}
+
+.w300 {
+  max-width: 300px;
+  vertical-align: top;
+}
+
+.subheader {
+  font-size: larger;
+  margin-bottom: 1em;
+}
+
+.paragraph {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+p {
+  margin: inherit;
+}
+
+.u {
+  text-decoration: underline;
+}
+
+.b {
+  font-weight: bold;
+}
+
+a:link {
+  color: #55f;
+}
+
+a:visited {
+  color: #c00;
+}

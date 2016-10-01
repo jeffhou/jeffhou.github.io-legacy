@@ -1,3 +1,6 @@
+h2 {
+  display: inline;
+}
 .page {
   width: 500px;
   margin-left: auto;
